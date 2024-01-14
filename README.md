@@ -1,4 +1,4 @@
-### Olá 👋
+## Olá 👋
 
 Eu sou **Isabella Tressino**, estudante de Engenharia de Software.
 
