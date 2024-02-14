@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EB9FEF&height=120&section=header"/>
 
 <div align="center">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=70&lines=Hello%2C" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=40&lines=I'm+" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=EB9FEF&background=A64CFF00&multiline=true&repeat=false&random=false&width=200&lines=Isabella+Tressino." alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=285&lines=A+software+engineering+student." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=70&lines=Hello%2C" alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=40&lines=I'm+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=1&pause=1000&color=EB9FEF&background=A64CFF00&multiline=true&repeat=false&random=false&width=200&lines=Isabella+Tressino." alt="Typing SVG" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=285&lines=A+software+engineering+student." alt="Typing SVG" />
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=130&lines=Visitors+Count" alt="Typing SVG" /></a>
+<br><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1&pause=1000&color=654597&background=A64CFF00&multiline=true&repeat=false&random=false&width=130&lines=Visitors+Count" alt="Typing SVG" />
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellatressino}/count.svg" /></p> 
 </div>
 
