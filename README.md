@@ -17,8 +17,6 @@
 <div align="center">
   <p>My Top Projects</p>
   <a href="https://github.com/isabellatressino/jogo-da-memoria"><img width="250px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isabellatressino&repo=jogo-da-memoria&theme=react&bg_color=1F222E&title_color=068D9D&hide_border=true&icon_color=80DED9&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/isabellatressino/tip-calculator-app-main"><img width="250px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isabellatressino&repo=tip-calculator-app-main&theme=react&bg_color=1F222E&title_color=068D9D&hide_border=true&icon_color=80DED9&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/isabellatressino/interactive-card-details-form-main"><img width="250px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=isabellatressino&repo=interactive-card-details-form-main&theme=react&bg_color=1F222E&title_color=068D9D&hide_border=true&icon_color=80DED9&show_icons=true" alt="readme-typing-svg"></a>
 </div>
 
 <br>
